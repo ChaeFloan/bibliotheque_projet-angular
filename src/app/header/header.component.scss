@@ -1,0 +1,22 @@
+nav {
+  background-color: black;
+  width: 100%;
+  height: auto;
+  div {
+    display: flex;
+    ul {
+      display: flex;
+      li {
+        list-style-type: none;
+        padding: 0 20px;
+        a {
+          color: white;
+          text-decoration: none;
+        }
+        &active {
+          border: white 2px solid;
+        }
+      }
+    }
+  }
+}

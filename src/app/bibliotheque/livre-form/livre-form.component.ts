@@ -17,7 +17,7 @@ export class LivreFormComponent implements OnInit {
   constructor(private formBuilder: FormBuilder, private livreService: LivresService, private router: Router) { }
 
   ngOnInit(): void {
-    this.initForm();
+    // this.initForm();
   }
 
   // initForm() {

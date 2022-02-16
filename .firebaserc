@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "bibliotheque-angular-f613f"
+  },
+  "targets": {
+    "bibliotheque-angular-f613f": {
+      "hosting": {
+        "bibliotheque": [
+          "bibliotheque-angular-f613f"
+        ]
+      }
+    }
+  }
+}
